@@ -2,7 +2,7 @@
 
 [![Mr Coxall's Super Linter](https://github.com/MTHS-ICD2O-1-2024/ICD2O-Unit-1-08-PHP-Devin-boucher/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/MTHS-ICD2O-1-2024/ICD2O-Unit-1-08-PHP-Devin-boucher/actions)
 
-This site can be found at: [https://mths-icd2o-1-2024.github.io/ICD2O-Unit-1-08-PHP-Devin-boucher/](https://mths-icd2o-1-2024.github.io/ICD2O-Unit-1-08-PHP-Devin-boucher/)
+This site can be found at: [https://icd2o-1-teh.type-code.cloud/~devin.boucher/ICD2O-1/Unit1/ICD2O-Unit-1-08-PHP-Devin-boucher/](https://icd2o-1-teh.type-code.cloud/~devin.boucher/ICD2O-1/Unit1/ICD2O-Unit-1-08-PHP-Devin-boucher/)
 
 ---
 

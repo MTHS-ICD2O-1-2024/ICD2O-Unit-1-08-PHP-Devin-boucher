@@ -5,7 +5,7 @@
     <meta charset="utf-8" />
     <meta name="description" content="The math program, PHP" />
     <meta name="keywords" content="mths, icd2o" />
-    <meta name="author" content="Mr. Coxall" />
+    <meta name="author" content="Devin boucher" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link
       rel="stylesheet"
